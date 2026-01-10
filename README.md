@@ -15,3 +15,5 @@ This line is added in Leeson 2.
 This line is added in Leeson 1-4.
 
 This line is added in Leeson 1-5.
+
+This line is added in Leeson 1-6 hoge.
